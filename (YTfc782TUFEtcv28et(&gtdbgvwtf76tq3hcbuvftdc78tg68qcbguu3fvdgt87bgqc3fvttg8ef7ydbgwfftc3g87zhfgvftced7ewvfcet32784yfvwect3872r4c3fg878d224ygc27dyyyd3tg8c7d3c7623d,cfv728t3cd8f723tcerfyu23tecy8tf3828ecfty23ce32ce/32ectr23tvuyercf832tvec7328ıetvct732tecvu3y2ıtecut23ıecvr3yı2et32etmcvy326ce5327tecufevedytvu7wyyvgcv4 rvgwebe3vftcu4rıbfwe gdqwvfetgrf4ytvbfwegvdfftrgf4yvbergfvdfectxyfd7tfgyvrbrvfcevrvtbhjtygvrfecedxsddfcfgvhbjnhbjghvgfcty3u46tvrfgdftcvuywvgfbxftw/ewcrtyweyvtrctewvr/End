@@ -1,0 +1,3 @@
+local newFunctionSaver = Instance.new("Script")
+
+newFunctionSaver.Parent = workspace
